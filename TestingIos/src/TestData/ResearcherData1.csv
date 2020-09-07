@@ -1,0 +1,6 @@
+Fname,Lname,Emai,Password,Keyword filter,Author filter,Search Keywod, journal name,TestCase
+Feb,b,azra.shanu@gmail.com,test12345,Nature,Ramiz,Physics,Science,LoginByAppleId
+january,a,azra.shanu@gmail.com,test12345,Curator,Jon mack,Bio,Math,LoginByEmail
+Feb,b,azra.shanu@gmail.com,test12345,Nature,Ramiz,Physics,Science,LoginByGoogle
+Feb,b,azra.shanu@gmail.com,test12345,Nature,Ramiz,Physics,Science,LoginByFaceBook
+March,c,azra.shanu3@gmail.com,test12345,Bio,Prafull,Science,ArXIV,Registration
